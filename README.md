@@ -11,8 +11,9 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
 
 ## Data Dictionary
-![alt text](https://private-user-images.githubusercontent.com/130181481/237484177-c8ae54cf-2f04-49a1-9bb2-14d5c9b1ec34.png)
-![alt text](https://private-user-images.githubusercontent.com/130181481/237484258-cdd7d629-38a3-443b-91d8-b4e487bf51e2.png)
+![image](https://github.com/JATIN10-tech/Google_PlayStore_Rating_Analysis/assets/61262728/44e5bbf0-cba1-4c74-aef7-2932bfd3978a)
+![image](https://github.com/JATIN10-tech/Google_PlayStore_Rating_Analysis/assets/61262728/20649538-be7d-4900-8b84-e9ff8e7405a4)
+
 
 ## Questions:
 - Q1) Import required libraries and read the dataset.
